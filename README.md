@@ -1,6 +1,6 @@
 # ALP-Cat-2
 
-# 1) Overview of Each Program
+# Overview of Each Program
 
 ## Question 1: Number Sign Detection Program
 
